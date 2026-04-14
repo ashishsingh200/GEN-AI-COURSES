@@ -1,0 +1,4 @@
+ProductName|   Price
+Pen       |   24
+Macbook       |   70104
+Charger       |   799
